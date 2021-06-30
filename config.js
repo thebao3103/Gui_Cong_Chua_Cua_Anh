@@ -1,17 +1,16 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `Trái đất 🌏 vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    lạc vào tim anh ❤️❤️❤️`,
+    btnIntro: 'hihi 🤗🤗🤗 ',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    btnYes: 'Em yêu anh 😍😍😍',
+    btnNo: 'Không, Anh trai à 😝  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnReply: 'Gửi cho anh yêu <3',
+    reply: 'Tại vì anh là người mà em thấy hạnh phúc mỗi khi em ở bên anh 😛😝😛😝😛<33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Làm bạn đồng hành của anh đến cuối đời nhá  .',
     btnAccept: 'Okiiiii lun <3',
