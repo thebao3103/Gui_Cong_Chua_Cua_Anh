@@ -5,7 +5,7 @@ const CONFIG = {
     lạc vào tim anh ❤️❤️❤️`,
     btnIntro: 'hihi 🤗🤗🤗 ',
     title: 'Phải chăng em đã yêu anh ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say anh ngay từ lúc thấy nụ cười ấy ',
+    desc: 'hải chăng em đã say anh ngay từ lúc thấy nụ cười ấy  
     btnYes: 'Em yêu anh 😍😍😍',
     btnNo: 'Không, Anh trai à 😝  :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
